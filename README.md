@@ -1,3 +1,5 @@
+The following is the code that can be found in the index.html file that has been provided with this repo.
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
